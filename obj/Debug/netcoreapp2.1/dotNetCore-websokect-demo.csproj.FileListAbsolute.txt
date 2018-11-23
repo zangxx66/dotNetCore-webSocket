@@ -1,0 +1,14 @@
+F:\private\dotNetCore-websokect-demo\bin\Debug\netcoreapp2.1\dotNetCore-websokect-demo.deps.json
+F:\private\dotNetCore-websokect-demo\bin\Debug\netcoreapp2.1\dotNetCore-websokect-demo.runtimeconfig.json
+F:\private\dotNetCore-websokect-demo\bin\Debug\netcoreapp2.1\dotNetCore-websokect-demo.runtimeconfig.dev.json
+F:\private\dotNetCore-websokect-demo\bin\Debug\netcoreapp2.1\dotNetCore-websokect-demo.dll
+F:\private\dotNetCore-websokect-demo\bin\Debug\netcoreapp2.1\dotNetCore-websokect-demo.pdb
+F:\private\dotNetCore-websokect-demo\obj\Debug\netcoreapp2.1\dotNetCore-websokect-demo.csprojAssemblyReference.cache
+F:\private\dotNetCore-websokect-demo\obj\Debug\netcoreapp2.1\dotNetCore-websokect-demo.csproj.CoreCompileInputs.cache
+F:\private\dotNetCore-websokect-demo\obj\Debug\netcoreapp2.1\dotNetCore-websokect-demo.RazorAssemblyInfo.cache
+F:\private\dotNetCore-websokect-demo\obj\Debug\netcoreapp2.1\dotNetCore-websokect-demo.RazorAssemblyInfo.cs
+F:\private\dotNetCore-websokect-demo\obj\Debug\netcoreapp2.1\dotNetCore-websokect-demo.AssemblyInfoInputs.cache
+F:\private\dotNetCore-websokect-demo\obj\Debug\netcoreapp2.1\dotNetCore-websokect-demo.AssemblyInfo.cs
+F:\private\dotNetCore-websokect-demo\obj\Debug\netcoreapp2.1\dotNetCore-websokect-demo.RazorTargetAssemblyInfo.cache
+F:\private\dotNetCore-websokect-demo\obj\Debug\netcoreapp2.1\dotNetCore-websokect-demo.dll
+F:\private\dotNetCore-websokect-demo\obj\Debug\netcoreapp2.1\dotNetCore-websokect-demo.pdb
